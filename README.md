@@ -33,7 +33,7 @@ digital presence.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOURUSERNAME/la-motivacion-website.git
+git clone https://github.com/shahilseth/la-motivacion-website.git
 
 # Navigate to project
 cd la-motivacion-website
