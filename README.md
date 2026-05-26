@@ -9,6 +9,9 @@
 ## Live Site
 🔗 [la-motivacion-website.vercel.app](https://la-motivacion-website.vercel.app)
 
+## Dashboard Preview
+![Dashboard](web_dashboard.jpeg)
+
 ## About
 Official website for **La Motivacion**, a premium fitness lounge based in Dhuri, 
 Punjab. Built as a freelance project to give the gym a professional 
